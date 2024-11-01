@@ -19,6 +19,10 @@
 - **Search Functionality**: Quickly find restaurants and menu items using the search feature.
 - **Responsive Design**: Enjoy a smooth experience on both mobile and tablet devices.
 
+## ⭐️ If you find this project useful, please give it a star! ⭐️
+Your support helps me to keep improving and maintaining this project. Thank you!
+
+
 ## Installation
 
 To get started with the Restaurant app, follow these steps:
