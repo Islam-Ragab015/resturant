@@ -8,7 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -21,7 +20,6 @@
 
 ## ⭐️ If you find this project useful, please give it a star! ⭐️
 Your support helps me to keep improving and maintaining this project. Thank you!
-
 
 ## Installation
 
@@ -59,6 +57,13 @@ After running the application, you can:
 - **Track Orders**: Check the status of your orders and view past order history.
 - **Search for Restaurants**: Use the search bar to find restaurants and menu items quickly.
 
+## Screenshots of the app:
+
+Here are some screenshots of the **Restaurant** app in action:
+
+![Restaurant App - Screenshot 1](assets/images/1.jpg)
+*Main menu and browsing options.*
+
 ## Contributing
 
 We welcome contributions to enhance the Restaurant app! To contribute:
@@ -80,10 +85,6 @@ We welcome contributions to enhance the Restaurant app! To contribute:
 5. **Create a Pull Request**: Submit a pull request on GitHub to propose your changes.
 
 Please follow our coding standards and include relevant tests with your contributions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
