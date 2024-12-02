@@ -8,7 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -22,34 +21,29 @@
 ## ⭐️ If you find this project useful, please give it a star! ⭐️
 Your support helps me to keep improving and maintaining this project. Thank you!
 
-
 ## Installation
 
 To get started with the Restaurant app, follow these steps:
 
 1. **Clone the Repository**:
-    
-bash
+    ```bash
     git clone https://github.com/Islam-Ragab015/restaurant.git
-
+    ```
 
 2. **Navigate to the Project Directory**:
-    
-bash
+    ```bash
     cd restaurant
-
+    ```
 
 3. **Install Dependencies**:
-    
-bash
+    ```bash
     flutter pub get
-
+    ```
 
 4. **Run the Application**:
-    
-bash
+    ```bash
     flutter run
-
+    ```
 
    Ensure you have Flutter installed on your machine. For installation instructions, visit the [official Flutter documentation](https://flutter.dev/docs/get-started/install).
 
@@ -63,34 +57,34 @@ After running the application, you can:
 - **Track Orders**: Check the status of your orders and view past order history.
 - **Search for Restaurants**: Use the search bar to find restaurants and menu items quickly.
 
+## Screenshots of the app:
+
+Here are some screenshots of the **Restaurant** app in action:
+
+![Restaurant App - Screenshot 1](assets/images/1.jpg)
+*Main menu and browsing options.*
+
 ## Contributing
 
 We welcome contributions to enhance the Restaurant app! To contribute:
 
 1. **Fork the Repository**: Create your own copy of the repository on GitHub.
 2. **Create a Branch**: Develop your changes in a new branch.
-    
-bash
+    ```bash
     git checkout -b your-feature-branch
-
+    ```
 3. **Commit Your Changes**:
-    
-bash
+    ```bash
     git add .
     git commit -m "Description of your changes"
-
+    ```
 4. **Push to Your Branch**:
-    
-bash
+    ```bash
     git push origin your-feature-branch
-
+    ```
 5. **Create a Pull Request**: Submit a pull request on GitHub to propose your changes.
 
 Please follow our coding standards and include relevant tests with your contributions.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
