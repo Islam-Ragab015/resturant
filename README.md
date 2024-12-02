@@ -1,6 +1,5 @@
 # Restaurant
 
-
 **Restaurant** is a Flutter application designed to enhance the dining experience with a simple and intuitive user interface. The app allows users to explore restaurant menus, place orders, and manage their dining preferences seamlessly.
 
 ## Table of Contents
