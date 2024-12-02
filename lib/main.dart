@@ -198,37 +198,6 @@ class _RestaurantPageState extends State<RestaurantPage> {
                 ],
               ),
             ),
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 20.0),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  const Text(
-                    "Friends",
-                    style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
-                  ),
-                  TextButton(
-                    onPressed: () {},
-                    child: const Text(
-                      "See all (9)",
-                      style: TextStyle(color: Colors.blueGrey),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-            const Padding(
-              padding: EdgeInsets.all(10.0),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  AvatarImage(image: "images/p1.jpeg"),
-                  AvatarImage(image: "images/p2.jpg"),
-                  AvatarImage(image: "images/p3.jpg"),
-                  AvatarImage(image: "images/p4.jpg"),
-                ],
-              ),
-            ),
           ],
         ),
       ),
